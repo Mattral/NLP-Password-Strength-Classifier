@@ -4,7 +4,9 @@ This project implements a password strength classifier using a logistic regressi
 
 ## Overview
 
-This repository contains the code for a password strength classifier. The classifier is trained using a logistic regression model on a dataset of passwords with corresponding strength labels (0, 1, 2). The TF-IDF vectorization technique is employed to convert password strings into numerical features for model training.
+This repository contains the code for a password strength classifier. The classifier is trained using a logistic regression model on a dataset of passwords with corresponding strength labels (0, 1, 2). 
+
+The TF-IDF vectorization technique is employed to convert password strings into numerical features for model training.
 
 ## Dataset
 
