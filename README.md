@@ -1,6 +1,6 @@
 # Password Strength Classifier
 
-This project implements a password strength classifier using a logistic regression model and TF-IDF vectorization.
+This project implements a password strength classifier using a logistic regression model and TF-IDF vectorization
 
 ## Overview
 
